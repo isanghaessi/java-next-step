@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="caclulator:main" external.linked.project.path="$MODULE_DIR$/../../caclulator" external.root.project.path="$MODULE_DIR$/../../caclulator" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../caclulator/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../caclulator/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../caclulator/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../caclulator/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.14.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-collections4:4.4" level="project" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="bc852159-ee10-45dd-837a-6f05be612798" />
+  </component>
+</module>
